@@ -28,3 +28,4 @@ for yellow_function in yellow_functions:
                 num_solved += 1
             except StopIteration:
                 print(f"No solution found")
+            print()
